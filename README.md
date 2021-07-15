@@ -1,2 +1,2 @@
 # LabWork
-Code for anatomical (MBF; Nikon; ImageJ) and electrophysiological data (CED Software, Signal, Spike)
+Code to analyze anatomical and electrophysiological (CED Software) data.
