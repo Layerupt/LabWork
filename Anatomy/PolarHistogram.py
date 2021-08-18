@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
-#this code creates a (normalized) mean polar histogram with the data from the first sheet of a given Excel file. It takes the first row for column names and there have to be 'numberofdatapoints' datapoints in each row.
+#this code creates a (normalized) mean polar histogram with the data from the first sheet of a given Excel file. It takes the first row for column names and there have to be 'numberofdatapoints' datapoints in each column.
 
 #setup
 filename = 'MeanPolarHistogramAxonCell33_88rotated.xlsx'
